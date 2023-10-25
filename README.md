@@ -9,4 +9,7 @@ $${\color{blue}About}$$ :
 
 My Bold Text, in red color.{: style=“color: red; opacity: 0.80;” }
 
+<font color="red">This text is red!</font>
+
+
 
