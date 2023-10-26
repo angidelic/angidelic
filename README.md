@@ -1,8 +1,30 @@
-## About  
+# About  
+**About Me**  
+I am a data scientist with over 5 years’ experience collecting, analyzing, and presenting data.  I am proficiency in creating business intelligence reports for department and senior management. I have also served as liaison between project managers and developers to create project documentation and workflows.  
+
+I have master’s degrees in Data Science, Computer Information Systems, and Cybersecurity.
+
+>**Skills**
+>>* Extensive experience working with business groups to design reports   
+>>* Statistical modeling and natural language processing  
+>>* Data mining and deep learning  
+>>* Collaborate with other teams and managers to provide business intelligence reports  
+>>* Strong understanding of database structures and code to perform reviews and updates as needed
+>>
+>**Proficiencies**	
+>>* SQL  
+>>* Python  
+>>* R  
+>>* Power BI  
+>>* Tableau  
+>>* Microsoft Windows, Office, Excel, Visio, PowerPoint, and SQL Server  
+>>* Apple OS and iWork  
+
+**About my Portfolio**   
+This portfolio highlights my experience programming in Python and R as well as conducting analysis and writing reports. 
 
 
-
-## Work/Projects
+# Work/Projects
 [Crime Case Study](https://github.com/angidelic/angidelic.general/tree/main/Crime%20Case%20Study)  
 >Makes use of data from the Murder Accountability Project to make predictions about an offender when we have information about the victim.  
 >>>Includes the case study and supporting python code
@@ -50,7 +72,7 @@
 >>>Feature analysis  
 >>>Model evaluations  
 
-## Contact  
+# Contact  
 **Angie Oehler**  
 angidelic13@gmail.com
 
